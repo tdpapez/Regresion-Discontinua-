@@ -6,7 +6,7 @@ La estimación se implementa con estimadores modernos de **CCT (Calonico, Cattan
 
 ## Contenido
 
-- [`TP_2_Tomas_Papez.pdf`](./TP_2_Tomas_Papez.pdf): documento completo con el análisis, resultados y apéndices (gráficos, chequeos de balance, test de densidad y placebos).
+- RDD.pdf: documento completo con el análisis, resultados y apéndices (gráficos, chequeos de balance, test de densidad y placebos).
 
 ## Resumen del análisis
 
